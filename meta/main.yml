@@ -1,0 +1,11 @@
+---
+galaxy_info:
+  author: "Kinnan Kwok"
+  categories:
+    - development
+  description: "Installs ruby with chruby"
+  license: MIT
+  platforms:
+    - name: Ubuntu
+      versions:
+        - xenial
